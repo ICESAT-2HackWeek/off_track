@@ -13,7 +13,7 @@ If you're interested in helping with this project, please add your name and goal
 
 | Name | Personal goals | Can help with | Role |
 | ------------- | ------------- | ------------- | ------------- |
-| Michael Studinger | I am interested in this project for a number of reasons. Tracking ice divides is one. | Adding airborne data, in particular ATM | Helper |
+| Michael Studinger | I am interested in this project for a number of reasons. Tracking ice divides is one potential application. | Adding airborne data in between ICESat-2 tracks, in particular ATM. | Helper |
 
 
 ### The problem
