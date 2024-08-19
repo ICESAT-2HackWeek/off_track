@@ -17,6 +17,8 @@ If you're interested in helping with this project, please add your name and goal
 | Sierra Melton | I am interested in learning how to use ICESat-2 data and other altimetry data to study ice front elevation changes. | Outlet glacier knowledge | Participant |
 | Ben Smith | I'd like to help users use my tools for elevation-change estimation, and learn what needs to be done to make them broadly useful | Data discovery, editing, and fitting | Project lead |
 | Ayman Ahajjam | Learn to integrate cloud computing in my work process;Learn how to use ICESat-2 data products; Collaborate with others | Data science; Visualization, inSAR data from Alaska | Participant |   
+| Ali Hossaini | I am interested in this project to develop my skills in machine learning workflows and hadnling elevation data such as ArcticDEM and ICESat-2. | PGC DEM Data aquistion, workflow development | Participant |
+
 
 
 ### The problem
