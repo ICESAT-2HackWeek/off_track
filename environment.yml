@@ -1,0 +1,36 @@
+name: off_track
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - conda
+  - python
+  - matplotlib
+  - nodejs
+  - xarray
+  - jupyterlab
+  - netcdf4
+  - pandas
+  - ipympl
+  - numpy < 2.0
+  - scikit-learn
+  - scipy
+  - h5py
+  - cython
+  - pyproj
+  - gdal
+  - cartopy
+  - geopandas
+  - rasterio
+  - descartes
+  - python-docx
+  - suitesparse
+  - openpyxl
+  - tabulate
+  - imageio
+  - ffmpeg
+  - proj
+  - pip
+  - pip:
+     - git+https://github.com/SmithB/LSsurf.git
+     - git+https://github.com/SmithB/pointCollection.git
