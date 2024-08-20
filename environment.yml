@@ -25,6 +25,7 @@ dependencies:
   - descartes
   - python-docx
   - suitesparse
+  - sliderule
   - openpyxl
   - tabulate
   - imageio
