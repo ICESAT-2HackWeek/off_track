@@ -14,11 +14,19 @@ If you're interested in helping with this project, please add your name and goal
 | Name | Personal goals | Can help with | Role |
 | ------------- | ------------- | ------------- | ------------- |
 | Michael Studinger | I am interested in this project for a number of reasons. Tracking ice divides is one potential application. | Adding airborne data in between ICESat-2 tracks, in particular ATM. | Helper |
+| Ben Smith | I'd like to help users use my tools for elevation-change estimation, and learn what needs to be done to make them broadly useful | Data discovery, editing, and fitting | Project lead |
 
 
 ### The problem
 
-Provide a few sentences describing the problem are you going to explore. If this is a technical exploration of software or data science methods, explain why this work is important in a broader context and specific applications of this work.
+ICESat-2 makes great measurements on its repeat tracks, but data can be sparse in between.  In this project, we're going to work on gridding techniques to fill in the gaps between ICESat-2 tracks.  We have participants interested in:
+
+- Divide-scale elevation change in Greenland
+- Ice-front-scale elevation change in Helheim glacier
+- Permafrost change in Alaska
+
+We'll try to find the best collection of techniques for each.
+
 
 ## Data and Methods
 
@@ -29,7 +37,7 @@ We'll get data from SlideRule, with the option to get additional DEM data from t
 
 ### Proposed methods/tools
 
-One of the goals of this project is to make the tools that generate ATL14/15 more accessible to the community.  This includes the code in the main ATL14/15 repository, and the code in the more general-purpose LSsurf repository
+One of the goals of this project is to make the tools that generate ATL14/15 more that are more useful to the community.  This includes the code in the main ATL14/15 repository, and the code in the more general-purpose LSsurf repository
 
 -- https://github.com/SmithB/ATL1415
 
