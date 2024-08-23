@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "n_grn_prudhoe_lobe_ll",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -70.416546967274726, 78.136008159168924 ], [ -69.608657994525245, 78.213277578558092 ], [ -69.241417088926852, 78.046900414256214 ], [ -70.040450746431262, 77.970729027502998 ], [ -70.416546967274726, 78.136008159168924 ] ] ] } }
+]
+}
